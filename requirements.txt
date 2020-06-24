@@ -10,6 +10,6 @@ scikit-learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
-streamlit
-better-profanity
-profanity-check
+streamlit==0.61.0
+better-profanity==0.6.1
+profanity-check==1.0.3
